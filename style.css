@@ -1,0 +1,20 @@
+h1 {
+    color: red;
+}
+
+h2 {
+    color: purple;
+}
+
+body {
+    background-color: teal;
+    color: white;
+}
+
+
+/* <absolute-size> values */
+
+li {
+    font-size: xx-large;
+    color: red
+}
